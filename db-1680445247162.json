@@ -1,0 +1,10 @@
+{
+  "posts": [
+    {
+      "id": "0001",
+      "note": "This is a test note",
+      "date": "2020-01-01",
+      "time": "00:00:00"
+    }
+  ]
+}
